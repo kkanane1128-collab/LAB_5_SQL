@@ -1,5 +1,3 @@
-mysql> USE bibloitheque;
-ERROR 1049 (42000): Unknown database 'bibloitheque'
 mysql> USE bibliotheque;
 Database changed
 mysql> WITH RECURSIVE
@@ -70,3 +68,4 @@ mysql> WITH RECURSIVE
 | 2025-12    |              0 |              0 |               0.00 | Aucun emprunt             |                   0.00 |
 +------------+----------------+----------------+--------------------+---------------------------+------------------------+
 12 rows in set (0.01 sec)
+
